@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448196139278",
+    "firebase_url": "https://sapp-19974.firebaseio.com",
+    "project_id": "sapp-19974",
+    "storage_bucket": "sapp-19974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448196139278:android:3cb8f75e7107daaa",
+        "android_client_info": {
+          "package_name": "com.example.sscorpio.sapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448196139278-k5ihvpig91g1e2p4vgmdo6lojsu2kt2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sscorpio.sapp",
+            "certificate_hash": "0fab37fee345bc66b0c2e03742b14c1c092ef6af"
+          }
+        },
+        {
+          "client_id": "448196139278-ge4s5hjarvsq61c5pe5l5vivsbbe2e94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGwIS0P__8jKT1ipD4g0MoCS69Sta4qFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448196139278-ge4s5hjarvsq61c5pe5l5vivsbbe2e94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
